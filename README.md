@@ -1,4 +1,4 @@
-# S&P 500 Sector-Stratified Portfolio Optimizer
+# Portfolio Sharpe Optimizer
 
 ## Project Overview
 This project implements a Mean-Variance Optimization (MVO) model to build a diversified "Proxy Portfolio" of the S&P 500. Instead of a random selection, the algorithm targets the top 3 market-cap leaders from each of the 12 GICS sectors, ensuring the portfolio remains balanced across the entire US economy.
